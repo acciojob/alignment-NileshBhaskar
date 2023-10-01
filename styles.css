@@ -8,7 +8,7 @@ h1{
 	margin-left: auto;
 	margin-right: auto;
 }
-table{
+table,t{
 	border: 1px solid black;
 	width: 100%;
 	margin: 50px;
@@ -16,7 +16,10 @@ table{
 }
 td{
 	height: 10px;
+	border: 1px solid black;
+	
 }
+
 .right{
 	text-align: right;
 }
